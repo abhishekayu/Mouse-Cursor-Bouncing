@@ -1,5 +1,5 @@
 # Mouse-Cursor-Bouncing
-This script is randomly bouncing your Laptop/Desktop mouse cursor according screen until the hard coded time execution not end!
+This script is randomly bouncing your Laptop/Desktop mouse cursor according to the screen until the hard-coded time execution does not end!
 
 ![github](https://user-images.githubusercontent.com/64314222/93706374-380d5580-fb43-11ea-8a99-3a6827940e64.gif)
 
