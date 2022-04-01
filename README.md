@@ -6,11 +6,15 @@ This script is randomly bouncing your Laptop/Desktop mouse cursor according scre
 
 ## How to use
 
-1. Download [the py.py script](https://github.com/imdarkcoder/Mouse-Cursor-Bouncing/archive/master.zip) 
+1. Prerequisite 
+```sh
+pip install pyautogui
+```
+2. Download [the py.py script](https://github.com/imdarkcoder/Mouse-Cursor-Bouncing/archive/master.zip) 
 ```sh
 Extracting Zip file, Go inside of extract folder and open terminal/CMD here.
 ```
-2. Execute py.py
+3. Execute py.py
 ```sh
 python py.py
 ```
