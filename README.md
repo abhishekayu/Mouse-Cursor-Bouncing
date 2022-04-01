@@ -48,10 +48,5 @@ if anything happens, you yourself will be responsible for it.
 [webdevplaylist]: https://www.youtube.com/channel/UCn6rJnrjdETlODG38BecyGA
 
 ---
-<details>
-  
-  <summary>GitHub Stats</summary>
-
-  <img align="left" alt="imdarkcoder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imdarkcoder&show_icons=true&hide_border=true" />
-
-</details>
+<summary><b>⚡ Github Stats</b></summary>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=imdarkcoder&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="imdarkcoder" align = "center"/>
