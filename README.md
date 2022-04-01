@@ -1,6 +1,8 @@
 # Mouse-Cursor-Bouncing
 This script is randomly bouncing your Laptop/Desktop mouse cursor according screen until the hard coded time execution not end!
 
+![github](https://user-images.githubusercontent.com/64314222/93706374-380d5580-fb43-11ea-8a99-3a6827940e64.gif)
+
 
 ## How to use
 
@@ -29,8 +31,6 @@ if anything happens, you yourself will be responsible for it.
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 ![Python Powered Logo](https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonpoweredlengthgif.gif)
 
-<br />
-<br />
 
 ### Connect with me:
 
